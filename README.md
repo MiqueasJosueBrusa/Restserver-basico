@@ -1,8 +1,6 @@
-# Restserver
 
-========================
 REST Servers en Node.js
-========================
+
 
 ¿Qué es un REST Server en Node.js?
 Un REST Server en Node.js es una aplicación que utiliza el protocolo HTTP para exponer una API (Interfaz de Programación de Aplicaciones) que sigue los principios de la arquitectura REST (Representational State Transfer). Esto significa que el servidor proporciona acceso a recursos (datos) a través de URLs y métodos HTTP estándar como GET, POST, PUT y DELETE.
